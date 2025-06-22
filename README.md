@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # 🐶🐱 Cat vs Dog Image Classifier with MobileNetV2
 
 This project is a complete image classification pipeline built using TensorFlow and TensorFlow Hub to classify images as either **cats** or **dogs**. It uses the **MobileNetV2** pre-trained model as a feature extractor and is trained on the popular **Dogs vs. Cats dataset** from Kaggle.
